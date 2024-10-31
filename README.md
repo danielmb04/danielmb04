@@ -1,4 +1,10 @@
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Daniel Marcu Báñez</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 ## Hi there 👋
+
+
 
 <!--
 **danielmb04/danielmb04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
